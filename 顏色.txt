@@ -1,0 +1,10 @@
+#803c2d  磚
+
+#f5ede6  淡皮膚
+
+#f7dbc0  淡橘
+
+
+#EDE79B  亮黃(PPT輔色)
+
+#D95A4A  亮磚(coolors)
